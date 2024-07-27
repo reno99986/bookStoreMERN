@@ -11,7 +11,7 @@ Minimal crud for storing book data using MERN stack
 ## cd into backend
 ```cd backend```
 ## Install npm package and run the server
-```npm i```
+```npm i```  
 ```npm run dev```
 
 # Frontend Setup
@@ -19,5 +19,5 @@ Minimal crud for storing book data using MERN stack
 ```cd frontend```
 
 ## Install npm package and run the server
-```npm i```
+```npm i```  
 ```npm run dev```
